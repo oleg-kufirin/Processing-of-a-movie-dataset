@@ -5,7 +5,7 @@ In this project we will be working on the processing of a Movie dataset:
 (https://raw.githubusercontent.com/sidooms/MovieTweetings/master/latest/ratings.dat)
 
 In this dataset, each row contains a movie rating done by a user (e.g., user1 has rated Titanic as 10). Here is the format of the dataset: 
---user_id::movie_id::rating::timestamp
+-- user_id::movie_id::rating::timestamp
 
 In this assignment, for each pair of movies A and B, you need to find all the users who rated both movie A and B. For example, given the following dataset (for the sake of illustration we have used U and M to represent users and movies respectively in the example):
 ```
