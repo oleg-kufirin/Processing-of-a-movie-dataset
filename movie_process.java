@@ -1,5 +1,9 @@
 /*
 
+==============+==============+==========+===============
+COMP9313 19T3 | Assignment 1 | zXXXXXXXX| Oleg Kufirin |
+==============+==============+==========+===============
+
 The program consists of two jobs chained together job_1 -> job_2.
 
 The general idea is first to find all movies/ratings watched by one user.
