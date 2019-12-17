@@ -1,7 +1,7 @@
 /*
 
 ==============+==============+==========+===============
-COMP9313 19T3 | Assignment 1 | z5216713 | Oleg Kufirin |
+              | Assignment 1 |          | Oleg Kufirin |
 ==============+==============+==========+===============
 
 The program consists of two jobs chained together job_1 -> job_2.
