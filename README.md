@@ -1,5 +1,5 @@
 # Processing of a movie dataset using Hadoop MapReduce
-## Assignment *"Big Data Management"* class at UNSW
+## Assignment for *"Big Data Management"* class at UNSW
 ### Received mark: 20/20
 
 In this project we will be working on the processing of a Movie dataset:  
