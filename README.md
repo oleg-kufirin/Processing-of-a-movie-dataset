@@ -1,8 +1,8 @@
-# Processing-of-a-movie-dataset
+# Processing of a movie dataset using Hadoop MapReduce
 ## Part of the assesment for *Big Data Management* class at UNSW, Sydney 
 
-In this project we will be working on the processing of a Movie dataset:
-(https://raw.githubusercontent.com/sidooms/MovieTweetings/master/latest/ratings.dat)
+In this project we will be working on the processing of a Movie dataset:  
+https://raw.githubusercontent.com/sidooms/MovieTweetings/master/latest/ratings.dat
 
 In this dataset, each row contains a movie rating done by a user (e.g., user1 has rated Titanic as 10). Here is the format of the dataset: 
 -- user_id::movie_id::rating::timestamp
