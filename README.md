@@ -1,5 +1,6 @@
 # Processing of a movie dataset using Hadoop MapReduce
-## Part of the assesment for *"Big Data Management"* class at UNSW
+## Assignment for *"Big Data Management"* COMP9313 19T3 class at UNSW
+### Received mark: 20/20
 
 In this project we will be working on the processing of a Movie dataset:  
 https://raw.githubusercontent.com/sidooms/MovieTweetings/master/latest/ratings.dat
