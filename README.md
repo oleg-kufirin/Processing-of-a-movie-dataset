@@ -39,3 +39,9 @@ job.setMapOutputKeyClass(), job.setOutputKeyClass(), job.setMapOutputValueClass(
 * If the Key for the Mapper/Reducer is a complex object, you also need to implement a WritableComparable Interface
 * You can use ArrayWritable to store Array values, but you need to implement its toString() function to be able to write the object into a text file.
 * Please be aware of iterating over values inside a reducer (Iterable<MyWritable> values). When looping through the Iterable value list, each Object instance is reused internally by the reducer. So if you add them to another list, at the end of the process, all of the elements in the new list will be the same as the last object you added to the list.
+
+For compilation and running use:
+```
+$ javac -cp ".:Hadoop-Core.jar" AssigOne{zid}.java 
+$ java -cp ".:Hadoop-Core.jar" AssigOne{zid}  INPUT_PATH OUTPUT_PATH
+```
